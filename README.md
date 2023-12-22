@@ -1,6 +1,6 @@
 Решения задач из https://contest.yandex.ru/contest/36783/enter/
 
-Для части задач находил похожие на leetcode, там обычно ограничения менее строгие - можно решить и посмотреть решения других.
+Для части задач находил похожие на leetcode, там обычно ограничения менее строгие - можно решить и посмотреть решения других с объяснениями.
 
 D. Matrix. Resurrection - [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
